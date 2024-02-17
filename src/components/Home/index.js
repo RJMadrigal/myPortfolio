@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 import LogoTitle from '../../assets/images/b.png'
-import '/Users/bymadrigal/Desktop/Portfolio/myportfolio/src/components/Home/index.scss'
+import '/Users/bymadrigal/Desktop/Bymadrigal/Portfolio/myportfolio/src/components/Home/index.scss'
 import { useEffect, useState } from 'react';
 import AnimatedLetters from '../AnimatedLetters';
 import bannerlogo from '../../assets/images/logo-s.svg';
